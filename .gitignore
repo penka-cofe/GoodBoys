@@ -247,3 +247,5 @@ lib
 .nyc_output
 coverage
 es
+
+.vscode
